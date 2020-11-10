@@ -1,5 +1,5 @@
 ---
-- hostss: master
+- hosts: master
   roles:
     - role: master
 
